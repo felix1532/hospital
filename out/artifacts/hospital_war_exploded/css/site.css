@@ -1,0 +1,17 @@
+<style>
+	p.redtext {
+		color: red;
+	}
+	table {
+		width: 100%;
+		border-collapse: collapse;
+	}
+	tr {
+	  width: 50%;
+	}
+	th, td {
+		text-align: center;
+		border: 1px solid black;
+		padding: 15px 3px 15px 3px;
+	}	
+</style>
